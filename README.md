@@ -87,3 +87,4 @@ Requirement already satisfied: pyaes in /data/data/com.termux/files/usr/lib/pyth
 Requirement already satisfied: pyasn1>=0.1.3 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from rsa->telethon) (0.4.8)
 WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
 You should consider upgrading via the '/data/data/com.termux/files/usr/bin/python3 -m pip install --
+@Priya2480 
